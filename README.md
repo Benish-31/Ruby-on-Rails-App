@@ -1,27 +1,12 @@
-# README
+#Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Benito Ishimwe I am a Frontend Developer
 
-Things you may want to cover:
+This is my Ruby on Rails Friends List App!
 
-* Ruby version
+Bless your eyes with my app
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Useful rails commands
 
 * rails g scaffold friends first_name:string last_name:string email:string phone:string twitter:string # We create migration 
 
